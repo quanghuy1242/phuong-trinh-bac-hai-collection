@@ -1,0 +1,1 @@
+java --module-path "D:\ISO-EXE\Java\openjfx-11.0.1_windows-x64_bin-sdk\javafx-sdk-11.0.1\lib" --add-modules javafx.controls,javafx.fxml -jar "PhuongTrinhBacHai_JavaFX.jar"
